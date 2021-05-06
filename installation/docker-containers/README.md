@@ -484,6 +484,7 @@ With TOP running, try to replicate the problem while watching TOP for high loads
 ## 11. TODO
 
 * Add section for updating & backing up
+* Add a section for configuring traefik as reverse proxy
 
 ## 12. KNOWN ISSUES
 
